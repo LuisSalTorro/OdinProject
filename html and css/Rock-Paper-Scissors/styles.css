@@ -1,0 +1,28 @@
+@media(max-width: 550px){
+    #choices {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media(min-width: 549px){
+    #choices {
+        display: flex;
+        flex-direction: row;
+    }
+}
+body {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+button {
+    flex: 1;
+}
+
+.score{
+    margin-top: 120px;
+}
