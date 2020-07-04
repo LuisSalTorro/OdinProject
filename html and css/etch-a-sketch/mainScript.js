@@ -14,8 +14,7 @@ let setdimensions = 16
  *          We append the box to the row
  *  Finished the outer loop by appending the row tot the board
  *  We set the header which displays the x and y dimensions
- *  Finish with activating the button
- * 
+ *  Finish with activating the button to listen
 */
 
 let createBoard = (dimensions) => {
